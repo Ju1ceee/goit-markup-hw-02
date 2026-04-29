@@ -8,17 +8,21 @@
   color: #2e2f42;
 }
 
-.nav-link a {
+.logo-accent {
+  color: #4d5ae5;
+}
+
+.nav-link {
   font-weight: 500;
   color: #2e2f42;
 }
 
-.nav-link a:hover,
-.nav-link a:focus {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
 
-.nav-link a:hover,
-.nav-link a:focus {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
