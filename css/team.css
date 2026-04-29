@@ -1,12 +1,12 @@
-#team {
+.section-team {
   background-color: #f4f4fd;
 }
 
-#team li {
+.section-team li {
   background-color: #ffffff;
 }
 
-#team li h3,
-#team li p {
+.section-team li h3,
+.section-team li p {
   text-align: center;
 }

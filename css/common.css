@@ -46,12 +46,13 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+button:hover,
+button:focus {
   background-color: #404bbf;
 }
 
-ul li::marker {
-  color: white;
+ul {
+  list-style: none;
 }
 
 .logo-accent {
