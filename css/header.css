@@ -1,0 +1,21 @@
+.logo {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+nav a {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+nav a:hover {
+  color: #404bbf;
+}
+
+address a:hover {
+  color: #404bbf;
+}

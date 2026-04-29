@@ -1,0 +1,12 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team li {
+  background-color: #ffffff;
+}
+
+#team li h3,
+#team li p {
+  text-align: center;
+}
